@@ -49,7 +49,7 @@ require_once 'navbar.html';
               <th>Fecha de Creación</th>
               <th>Estado del Evento</th>
               <th>Ver Detalles</th>
-              <th>Votar</th>
+              <th>Votar </th>
             </tr>
           </thead>
           <tbody>
